@@ -1,12 +1,12 @@
-package com.github.lc.oss.commons.javafx.services;
+package io.github.lc.oss.commons.javafx.services;
 
 import java.util.Locale;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
-import com.github.lc.oss.commons.javafx.AbstractJfxMockTest;
-import com.github.lc.oss.commons.l10n.UserLocale;
+import io.github.lc.oss.commons.javafx.AbstractJfxMockTest;
+import io.github.lc.oss.commons.l10n.UserLocale;
 
 public class L10NServiceTest extends AbstractJfxMockTest {
     @Test

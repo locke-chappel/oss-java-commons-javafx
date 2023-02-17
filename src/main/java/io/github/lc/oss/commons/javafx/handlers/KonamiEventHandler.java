@@ -1,4 +1,4 @@
-package com.github.lc.oss.commons.javafx.handlers;
+package io.github.lc.oss.commons.javafx.handlers;
 
 import java.util.Arrays;
 import java.util.Collections;

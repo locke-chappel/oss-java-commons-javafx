@@ -1,4 +1,4 @@
-package com.github.lc.oss.commons.javafx.views;
+package io.github.lc.oss.commons.javafx.views;
 
 import java.net.URL;
 
@@ -7,10 +7,10 @@ import org.w3c.dom.Element;
 import org.w3c.dom.NodeList;
 import org.w3c.dom.Text;
 
-import com.github.lc.oss.commons.javafx.services.L10N;
-import com.github.lc.oss.commons.javafx.services.ResourceService;
-import com.github.lc.oss.commons.l10n.Variable;
-import com.github.lc.oss.commons.web.resources.AbstractResourceResolver.Types;
+import io.github.lc.oss.commons.javafx.services.L10N;
+import io.github.lc.oss.commons.javafx.services.ResourceService;
+import io.github.lc.oss.commons.l10n.Variable;
+import io.github.lc.oss.commons.web.resources.AbstractResourceResolver.Types;
 
 import javafx.beans.value.ChangeListener;
 import javafx.beans.value.ObservableValue;

@@ -1,4 +1,4 @@
-package com.github.lc.oss.commons.javafx.services;
+package io.github.lc.oss.commons.javafx.services;
 
 import java.nio.charset.StandardCharsets;
 import java.util.Arrays;
@@ -6,10 +6,10 @@ import java.util.List;
 import java.util.Map;
 import java.util.stream.Collectors;
 
-import com.github.lc.oss.commons.util.IoTools;
-import com.github.lc.oss.commons.util.PathNormalizer;
-import com.github.lc.oss.commons.web.resources.AbstractResourceResolver;
-import com.github.lc.oss.commons.web.resources.StaticResourceFileResolver;
+import io.github.lc.oss.commons.util.IoTools;
+import io.github.lc.oss.commons.util.PathNormalizer;
+import io.github.lc.oss.commons.web.resources.AbstractResourceResolver;
+import io.github.lc.oss.commons.web.resources.StaticResourceFileResolver;
 
 public class ResourceService extends AbstractResourceResolver {
     private static final String DEFAULT_APP_RESOURCE_PATH = new PathNormalizer().dir("static-secure/");

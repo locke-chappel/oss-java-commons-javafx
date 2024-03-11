@@ -12,7 +12,7 @@
     <version>1.0.10</version>
     <name>${project.artifactId}</name>
     <description>A web based JavaFX UI framework (e.g. build "native" GUI interfaces using web technologies)</description>
-    <url>https://github.com/locke-chappel/oss-commons-javafx</url>
+    <url>https://github.com/locke-chappel/oss-java-commons-javafx</url>
 
     <licenses>
         <license>
